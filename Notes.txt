@@ -2,3 +2,4 @@
 [+] Better Discord RPC
 [+] Automatic News 
 [+] Reezy gay Impostor
+[+] SUS
